@@ -13,6 +13,9 @@
 ### 6.
 ![image](https://user-images.githubusercontent.com/76506142/112561465-400ac280-8e10-11eb-8e7f-43565134480f.png)
 ### 7.
+![image](https://user-images.githubusercontent.com/76506142/112561698-adb6ee80-8e10-11eb-891b-d0eb25fc4b10.png)
 ### 8.
+![image](https://user-images.githubusercontent.com/76506142/112588490-73624700-8e3a-11eb-8324-7a02db2adbb4.png)
+### 9.
 
 
