@@ -1,6 +1,6 @@
 ## 要求三
 ### 1.
-![img](https://user-images.githubusercontent.com/76506142/112162951-80f3b300-8c27-11eb-947c-9b926c373aef.png)
+![image](https://user-images.githubusercontent.com/76506142/112745207-37b1b380-8fd9-11eb-941f-3bdb5bb5894b.png)
 ### 2.
 ![img](https://user-images.githubusercontent.com/76506142/112165842-13955180-8c2a-11eb-9d50-e70520b104c4.png)
 ### 3.
@@ -16,5 +16,6 @@
 ### 8.
 ![image](https://user-images.githubusercontent.com/76506142/112588490-73624700-8e3a-11eb-8324-7a02db2adbb4.png)
 ### 9.
+![image](https://user-images.githubusercontent.com/76506142/112745138-d689e000-8fd8-11eb-85b8-72dd355e5b32.png)
 
 
